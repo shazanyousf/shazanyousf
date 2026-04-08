@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Shazan Yousf
 
-<!--
-**shazanyousf/shazanyousf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing Masters in Computer Science 
+🏫 University of Kashmir
+📍 Anantnag, Jammu & Kashmir
+📧 shazanyousf@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 About Me
+
+- 🎓 Master's student in Computer Science
+- 💻 Passionate about coding and building real-world applications
+- 🌱 Currently improving my full-stack development skills
+- 🤝 Open to collaboration on interesting tech projects
+
+
+
+🛠️ Skills
+
+"Skills" (https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,html,css,mongodb,mysql,git,github)
