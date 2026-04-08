@@ -18,4 +18,6 @@ Hi, I'm Shazan Yousf
 
 🛠️ Skills
 
-"Skills" (https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,html,css,mongodb,mysql,git,github)
+🛠️ Skills
+
+"Skills" (https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,html,css,mongodb,mysql,git,github,firebase,flutter&perline=8)
